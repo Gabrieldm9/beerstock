@@ -1,4 +1,4 @@
-package one.digitalinovation.beerstock;
+package one.digitalinnovation.beerstock;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
